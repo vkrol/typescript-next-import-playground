@@ -1,0 +1,12 @@
+{
+  "name": "typescript-next-import-playground",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "ts-loader": "0.8.2",
+    "typescript": "1.9.0-dev.20160422",
+    "webpack": "1.13.0"
+  }
+}
